@@ -12,6 +12,7 @@
   - Laravel, react, terraform
 
 
+#### 　振り返り
  - [resume/職務経歴書](https://github.com/ryo-1123/resume)
 <!--
 **ryo-1123/ryo-1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
