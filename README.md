@@ -8,9 +8,9 @@
 
 #### work
   - Django, python, serverless framework
+
 #### private
   - Laravel, react, terraform
-
 
 #### 　振り返り
  - [resume/職務経歴書](https://github.com/ryo-1123/resume)
