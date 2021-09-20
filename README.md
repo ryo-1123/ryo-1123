@@ -1,4 +1,4 @@
-## Hi 👋
+##
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryo-1123&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
