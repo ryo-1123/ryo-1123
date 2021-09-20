@@ -11,7 +11,7 @@
 #### work
   - Django, python, serverless framework
 #### private
-  - Laravel, terraform, react
+  - Laravel, react, terraform
 <!--
 **ryo-1123/ryo-1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
