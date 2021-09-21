@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-1123&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 #### work
-  - Django, python, serverless framework
+  - Django, python, serverless framework, Cloudformation
 
 #### private
   - Laravel, react, terraform
