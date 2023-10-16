@@ -6,11 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-1123&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-#### work
-  - Django, python3, serverless framework, Cloudformation, Linux
-
-#### private
-  - Laravel, react, python3
-<!--
-**ryo-1123/ryo-1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+#### Resume
+https://github.com/ryo-1123/resume/blob/main/README.md
